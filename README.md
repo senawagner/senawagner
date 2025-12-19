@@ -48,9 +48,12 @@ Minha abordagem é agnóstica a tecnologias: uso a ferramenta certa para resolve
 
 <div align="left">
   <a href="https://www.coddar.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Site_Oficial-Coddar_Digital-blue?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Site_Oficial-Coddar_Digital-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:contato@coddar.com.br">
-    <img src="https://img.shields.io/badge/Email-Fale_Conosco-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://wa.me/5513997049254?text=Olá,%20vim%20pelo%20GitHub%20e%20gostaria%20de%20conhecer%20suas%20soluções." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Fale_Conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/senawagner/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
