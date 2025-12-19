@@ -44,7 +44,7 @@ Atuo na interseção entre **Desenvolvimento de Software** e **Infraestrutura**,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=senawagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=senawagner&show_icons=true&theme=dracula&&count_private=true&hide_title=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senawagner&layout=compact&langs_count=6&theme=dracula&hide_title=true"/>
 </div>
 
